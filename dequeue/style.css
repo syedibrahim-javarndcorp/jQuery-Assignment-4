@@ -1,0 +1,11 @@
+div {
+    width: 100px;
+    position: absolute;
+    height: 100px;
+    left: 10px;
+    top: 30px;
+    background-color: #eb2b0a;
+  }
+  div.new {
+    background-color: #24d80d;
+  }
