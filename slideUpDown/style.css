@@ -1,0 +1,12 @@
+.a{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin: 50px auto;
+}
+.btn{
+    display: block;
+    width: 100%;
+    margin: 2px;
+    background-color: aqua;
+}
