@@ -5,5 +5,5 @@ $("#off").click(function () {
   jQuery.fx.off = true;
 });
 $("#tog").click(function () {
-  $(".animate").toggle(1000);
+  $(".animate").toggle(2000);
 });

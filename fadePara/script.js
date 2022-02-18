@@ -1,3 +1,3 @@
 $("p").on("click", function () {
-    $(this).fadeTo("medium", 0.60)
+    $(this).fadeTo("medium", 0.50)
 })
